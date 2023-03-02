@@ -1,0 +1,25 @@
+h1{
+    font-family: 'Fredoka One', cursive;
+    text-align: center;
+}
+
+.HTMLSpan{
+    display: flex;
+    justify-content: center;
+    font-family: 'Fredoka One', cursive;
+    color: chocolate;
+}
+
+.CSSSpan{
+    display: flex;
+    justify-content: center;
+    font-family: 'Fredoka One', cursive;
+    color: blue;
+}
+
+.GITSpan{
+    display: flex;
+    justify-content: center;
+    font-family: 'Fredoka One', cursive;
+    color: coral;
+}
